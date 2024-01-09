@@ -21,6 +21,10 @@ public class MobileSimSpringBootProjApplication {
 			} // try
 			catch (Exception e) {
 				e.printStackTrace();
+
+				int j=10;
+				int k=20;
 			}
 		}// main
+
 	}// class
