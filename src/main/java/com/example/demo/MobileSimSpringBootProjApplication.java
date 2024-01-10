@@ -7,6 +7,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import com.nt.sbeans.Phone;
 
 @SpringBootApplication
+	@RestController
 public class MobileSimSpringBootProjApplication {
 
 	// get IOC container
